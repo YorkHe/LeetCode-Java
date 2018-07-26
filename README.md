@@ -2,8 +2,6 @@
 
 Personal LeetCode Solution (in Java)
 
-<del>刷这些搞OI的时候碰都不想碰的水题真的不是在浪费时间吗。。找工作的应试教育化还行</del>
-
 ## 完成题目列表
 
 Total: 14 (By 2018-4-3)
@@ -24,6 +22,7 @@ Total: 14 (By 2018-4-3)
 - 377: Combination_Sum_IV
 - 386: Lexicographical Numbers
 - 451: Sort Characters By Frequency
+- 456: 132 Pattern
 - 649: Dota2 Senate
 - 738: Monotone Increasing Digits
 
