@@ -12,6 +12,7 @@ Total: 14 (By 2018-4-3)
 - 231: Power of Two
 - 349: Intersection of Two Arrays
 - 387: First Unique Character in a String
+- 476: Number Complement
 
 
 **Medium**
